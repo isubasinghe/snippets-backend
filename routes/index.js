@@ -12,7 +12,7 @@ if (!sources) {
 }
 db.saveDatabase();
 
-setTimeout(() => {
+setInterval(() => {
   db.saveDatabase();
 }, 1000);
 
