@@ -495,10 +495,10 @@ lazy-cache@^1.0.3:
   resolved "https://registry.yarnpkg.com/lazy-cache/-/lazy-cache-1.0.4.tgz#a1d78fc3a50474cb80845d3b3b6e1da49a446e8e"
   integrity sha1-odePw6UEdMuAhF07O24dpJpEbo4=
 
-lokijs@^1.5.7:
-  version "1.5.7"
-  resolved "https://registry.yarnpkg.com/lokijs/-/lokijs-1.5.7.tgz#3bbeb5c2dbffebd78d035bac82c7c4e6055870f0"
-  integrity sha512-2SqUV6JH4f15Z5/7LVsyadSUwHhZppxhujgy/VhVqiRYMGt5oaocb7fV/3JGjHJ6rTuEIajnpTLGRz9cJW/c3g==
+lokijs@^1.5.10:
+  version "1.5.10"
+  resolved "https://registry.yarnpkg.com/lokijs/-/lokijs-1.5.10.tgz#57d729b2694882b4b235c5b34ad3e3831ba4521b"
+  integrity sha512-XUCpwfR0cL2WJZECy80rGmDve9MCDVYFZqPGATSHCh0L+qocsPww3VB20d3Pvl0QpSBzWConCZyb6Ov8lzXoPA==
 
 longest@^1.0.1:
   version "1.0.1"
