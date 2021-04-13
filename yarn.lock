@@ -467,10 +467,10 @@ jade@~1.11.0:
     void-elements "~2.0.1"
     with "~4.0.0"
 
-js-beautify@^1.13.0:
-  version "1.13.0"
-  resolved "https://registry.yarnpkg.com/js-beautify/-/js-beautify-1.13.0.tgz#a056d5d3acfd4918549aae3ab039f9f3c51eebb2"
-  integrity sha512-/Tbp1OVzZjbwzwJQFIlYLm9eWQ+3aYbBXLSaqb1mEJzhcQAfrqMMQYtjb6io+U6KpD0ID4F+Id3/xcjH3l/sqA==
+js-beautify@^1.13.8:
+  version "1.13.8"
+  resolved "https://registry.yarnpkg.com/js-beautify/-/js-beautify-1.13.8.tgz#d1208ea567d4277ed46c8b157cd40f6cd9884753"
+  integrity sha512-nTlinr+SgOkFXT984l+Lyj/vrqU5D8W6Szdipq4+H1dWvNOp35CUnrBRCLNZpxseIyJnB1VTgI+on4j9tmU5OQ==
   dependencies:
     config-chain "^1.1.12"
     editorconfig "^0.15.3"
