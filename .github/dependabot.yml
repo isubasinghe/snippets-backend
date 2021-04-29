@@ -1,0 +1,14 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: daily
+    time: "19:00"
+  open-pull-requests-limit: 99
+  ignore:
+  - dependency-name: js-beautify
+    versions:
+    - 1.13.11
+    - 1.13.5
+    - 1.13.8
